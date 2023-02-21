@@ -1,16 +1,9 @@
----
-creation-date: 2022-11-03
-publish: true
-audience: all
-completion: .8
-tags: type/meta
----
 # README
 Welcome to Uncloak, a community-maintained knowledge wiki experiment, aiming to increase the accessibility of cryptography for developers, researchers, and everyone else.
 
 Our approach to knowledge organization attempts to incorporate basic ideas about how knowledge is constructed by representing links between concepts as connections between nodes in a graph. We believe this approach may help to clarify how to approach cryptography as a field for readers of all levels, while aiming to maintain a high standard for what information is relevant for different audiences.
 
-Uncloak is currently working on two projects: the [cryptography wiki at uncloak.org](https://uncloak.org), which we're soliciting [help with via PRs to our Github](https://github.com/thor314/uncloak), and weekly study groups. Our first study group on [[course-Rust Cryptography Engineering Study Group Syllabus|Cryptography Engineering with Rust]] launched November 18, 2022, and there are plans for further study groups in the works.
+Uncloak is currently working on two projects: the [cryptography wiki at uncloak.org](https://uncloak.org), which we're soliciting [help with via PRs to our Github](https://github.com/thor314/uncloak), and weekly study groups. Our first study group on [Cryptography Engineering with Rust](https://wiki.uncloak.com/Rust Cryptography Engineering Study Group Syllabus) launched November 18, 2022, and there are plans for further study groups in the works.
 
 The site will initially focus on generating content directed at cryptography learners and developers in cryptography engineering and zero knowledge, as we see these fields as most lacking in resources. Where there are already decent existing resources (Wikipedia pages, blog posts, etc.), the site will aim to link to them, while we expand content in target areas where the need is greater. These stubs are great candidates for first-time-contributions.
 
@@ -20,7 +13,7 @@ Site content is licensed under the Unlicense and will remain free and open.
 
 Our [Discord](https://discord.gg/TYwr4pMS2h) is a good place to ask questions and connect with contributors. We also have a [Twitter](https://twitter.com/uncloakcrypto) account for site-related announcements.
 
-[[general cryptography/Topic-Cryptography|Click here, or on the graph, to continue to the site root node on cryptography]].
+[Click here, or on the graph, to continue to the site root node on cryptography](https://wiki.uncloak.com/Cryptography).
 
 ## Tips for making best use of the site
 If you've ever rabbit-holed on Wikipedia and thought, "oh that went pretty well, but the relationship between those concepts is still a little unclear" then you basically already know what the site is about. This site aims to address the issue that it can be difficult to know where a particular concept or tool fits in context. Hyperlinks between typical wiki pages demonstrate connections between concepts, but without much context. The graph is an attempt at generating that context.
@@ -34,7 +27,7 @@ Similar to Wikipedia, **hovering over any internal link will produce a modal pop
 
 Each directory in the site has a **topic page**. Topic pages are great places to start your explorations, as every other page in the topic links back to the topic page. Topic pages are an attempt to organize a *Map of Contents* of the subject, while topic page content aims to introduce the topic, and give a general guide of how to navigate the topic area.
 
-Most pages on the site are under construction, but each page has a section for external resources on each subject. If you'd like to propose a change to a page or suggest a resource, we'd love your help! See the [[meta-Uncloak Contributor Guide|Uncloak Contributor Guide]] for a guide on contributing.
+Most pages on the site are under construction, but each page has a section for external resources on each subject. If you'd like to propose a change to a page or suggest a resource, we'd love your help! See the [Uncloak Contributor Guide](https://wiki.uncloak.com/Uncloak Contributor Guide) for a guide on contributing.
 
 ## How to give
 The site would not be possible without the support of grants and donations. The site maintainer works full time on improving site content, alongside volunteer contributors.

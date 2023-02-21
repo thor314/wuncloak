@@ -644,6 +644,12 @@
         "Mod"
       ],
       "key": "H"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
     }
   ],
   "obsidian-linter:lint-file": [
@@ -662,6 +668,12 @@
         "Mod"
       ],
       "key": "L"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
     }
   ],
   "obsidian-languagetool-plugin:ltcheck-text": [
@@ -731,5 +743,13 @@
       ],
       "key": "K"
     }
-  ]
+  ],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": []
 }
